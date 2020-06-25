@@ -1,4 +1,5 @@
-﻿<# 
+<# 
+    Written by wimternet (https://github.com/wimternet)
     .SYNOPSIS  
         Log schrijven in het gevraagde bestand
     .PARAMETER Boodschap
